@@ -9,7 +9,7 @@ $confirmationToken = '42f4656a';
 $token = '75a63611db2dddd3d91525a382dfebca2b068e48d046fe6564adb84727d19ba09c82fb40130a7c230abdb';
 
 // Secret key
-$secretKey = 'aa77rhn357';
+$secretKey = 'CodeNot';
 
 //Получаем и декодируем уведомление
 $data = json_decode(file_get_contents('php://input'));
